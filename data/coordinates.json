@@ -1,0 +1,104 @@
+{
+  "CAR": {
+    "y": 92,
+    "x": 25,
+    "height": 110,
+    "width": 380
+  },
+  "Region1": {
+    "y": 227,
+    "x": 25,
+    "height": 52,
+    "width": 380
+  },
+  "Region2": {
+    "y": 320,
+    "x": 25,
+    "height": 90,
+    "width": 380
+  },
+  "Region3": {
+    "y": 433,
+    "x": 25,
+    "height": 128,
+    "width": 380
+  },
+  "NCR": {
+    "y": 585,
+    "x": 25,
+    "height": 13,
+    "width": 380
+  },
+  "Region4A": {
+    "y": 620,
+    "x": 25,
+    "height": 90,
+    "width": 380
+  },
+  "Region4B": {
+    "y": 92,
+    "x": 423,
+    "height": 108,
+    "width": 375
+  },
+  "Region5": {
+    "y": 221,
+    "x": 423,
+    "height": 119,
+    "width": 375
+  },
+  "Region6": {
+    "y": 362,
+    "x": 423,
+    "height": 112,
+    "width": 375
+  },
+  "Region7": {
+    "y": 500,
+    "x": 423,
+    "height": 75,
+    "width": 375
+  },
+  "Region8": {
+    "y": 600,
+    "x": 423,
+    "height": 112,
+    "width": 375
+  },
+  "Region9": {
+    "y": 87,
+    "x": 872,
+    "height": 53,
+    "width": 390
+  },
+  "Region10": {
+    "y": 162,
+    "x": 872,
+    "height": 91,
+    "width": 390
+  },
+  "Region11": {
+    "y": 277,
+    "x": 872,
+    "height": 112,
+    "width": 390
+  },
+  "Region12": {
+    "y": 412,
+    "x": 872,
+    "height": 70,
+    "width": 390
+  },
+  "Region13": {
+    "y": 507,
+    "x": 872,
+    "height": 90,
+    "width": 390
+  },
+  "BARMM": {
+    "y": 620,
+    "x": 872,
+    "height": 90,
+    "width": 390
+  }
+}
