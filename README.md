@@ -39,7 +39,7 @@ Binarized cropped image:
 
 ### `python main.py`
 
-Extracts numerical text using more complete image operations. Shows the `binarized` and `grayscale` versions of the cropped image target, and surrounds significant objects on bounding boxes.
+Extracts numerical text using more complete image operations. Shows the `binarized` and `grayscale` versions of the cropped image target and surrounds significant objects with bounding boxes.
 
 ### `python extract.py`
 
