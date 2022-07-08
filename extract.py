@@ -2,7 +2,6 @@ import json
 from lib.image import *
 from src.groups import showGroups
 from src.extract_simple import extractTextSimple
-import cv2 as cv
 
 # Data imports
 with open('data/coordinates.json', 'r') as f:
