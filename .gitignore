@@ -1,3 +1,3 @@
 node_modules/
-__pycache_/
+__pycache__/
 .env

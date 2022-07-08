@@ -2,6 +2,11 @@
 
 Experiments on extracting numerical text as strings from low-resolution graphics.
 
+PAGASA's Seasonal Rainfall Forecast graphic (on `/data/regions.JPG`) is used as a test target.
+
+Binarized cropped image:
+![Region 5](assets/groups.jpg)
+
 ### Requirements
 
 1. Windows 10
