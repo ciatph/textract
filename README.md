@@ -31,7 +31,9 @@ Binarized cropped image:
 
 1. Run any of the python scripts below on the command line.
 2. Press ENTER to clear the image windows.
-3. Compare the accuracy of resulting extracted text to the image files.
+3. Edit and ajust the image processing settings on the `.py` files to get the desired results.
+4. Compare the accuracy of resulting extracted text to the image files.
+
 
 ### Scripts
 

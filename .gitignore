@@ -1,3 +1,6 @@
 node_modules/
 __pycache__/
+source/
 .env
+*.jpg
+*.png
