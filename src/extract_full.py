@@ -6,8 +6,6 @@ import numpy as np
 
 load_dotenv()
 
-print(os.getenv('TESSERACT_EXECUTABLE_PATH'))
-
 # Define tesseraact
 pytesseract.pytesseract.tesseract_cmd = os.getenv('TESSERACT_EXECUTABLE_PATH')
 
